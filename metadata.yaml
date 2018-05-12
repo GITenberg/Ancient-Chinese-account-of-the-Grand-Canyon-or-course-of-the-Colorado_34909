@@ -1,0 +1,26 @@
+_repo: Ancient-Chinese-account-of-the-Grand-Canyon-or-course-of-the-Colorado_34909
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McAllan, Alexander
+    birthdate: 1847
+    gutenberg_agent_id: '37316'
+    url: http://www.gutenberg.org/2009/agents/37316
+description: ''
+gutenberg_issued: '2011-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration -- Chinese'
+- !lcc 'F786'
+- !lcsh 'Colorado River (Colo.-Mexico)'
+title: Ancient Chinese account of the Grand Canyon, or course of the Colorado
+url: http://www.gutenberg.org/ebooks/34909
