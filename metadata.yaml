@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37316'
     url: http://www.gutenberg.org/2009/agents/37316
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34909#Ancient-Chinese-account-of-the-Grand-Canyon-or-course-of-the-Colorado
 gutenberg_issued: '2011-01-10'
 gutenberg_type: Text
 identifiers:
